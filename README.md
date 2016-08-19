@@ -1,6 +1,6 @@
 # launcher
 Launcher is a simple python script which can do wonders when it comes to save time at system bootup.
-Currently it can launch firefox with three tabs which you can edit as per your needs.
+Currently it can launch sublime-text and firefox with three tabs which you can edit as per your needs.
 
 # Requirements
   Python 2.7
